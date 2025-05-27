@@ -1,6 +1,6 @@
 (defproject seql "0.2.4"
   :description "schema migrations for the masses"
-  :url "https://github.com/it0a/seql"
+  :url "https://github.com/Javaman1138/seql"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :main seql.core
