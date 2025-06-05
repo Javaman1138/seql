@@ -1,4 +1,4 @@
-(defproject seql "0.2.4"
+(defproject seql "0.2.5"
   :description "schema migrations for the masses"
   :url "https://github.com/Javaman1138/seql"
   :license {:name "Eclipse Public License"
